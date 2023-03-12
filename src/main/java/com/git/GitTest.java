@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("你好啊");
         System.out.println("hot-fix");
         System.out.println("push test");
+        git@github.com:Lanny-bo/git-demo.git
     }
 }
